@@ -9,12 +9,14 @@ Entregas -----------------------------------------------------------------------
 Tarefas -----------------------------------------------------------------------------
 -> Implementar os algoritmos 2-aproximados para clusterização
 
-- função de distância de minkowski para p >= 1 (estar obrigatoriamente com p = 1 (manhattan) e p = 2 (euclidiana))
+- função de distância de minkowski para p >= 1 (testar obrigatoriamente com p = 1 (manhattan) e p = 2 (euclidiana))
+
 - versão 1: raio ótimo refinado até largura definida -> o número de refinamentos deverá ser variado
-entre 1-25%, com pelo menos cinco valores escolhidos nessa faixa. Como sugestão, as
-escolhas dos valores na faixa podem ser feitas tanto de forma linear quanto
-exponencial.
+entre 1-25%, com pelo menos cinco valores escolhidos nessa faixa. Como sugestão, as escolhas dos valores 
+na faixa podem ser feitas tanto de forma linear quanto exponencial.
+
 - versão 2: escolha do centro para maximizar distância entre os centros já escolhidos
+
 - avaliação dos métodos
     - conjunto de dados em https://archive.ics.uci.edu/ml/index.php (10 conjuntos com no mínimo 700 instâncias)
     - bases de dados sintéticas (10 conjunto para cada abordagem)
