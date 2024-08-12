@@ -1,6 +1,6 @@
 # Trabapalho final da disciplina de Algoritmos 2
 
-Este projeto constitui a implementação do trabalho final da disciplina de Algoritmos 2 do Departamento de Ciência da Computação da UFMG. O objetivo teve como abjetivo uma análise sobre os aspectos práticos relacionados à implementação de algoritmos aproximativos Especificamente, foi abordado o problema dos k-centros, útil na tarefa de agrupamento em aprendizado de máquinas.
+Este projeto constitui a implementação do trabalho final da disciplina de Algoritmos 2 do Departamento de Ciência da Computação da UFMG. O trabalho teve como objetivo uma análise sobre os aspectos práticos relacionados à implementação de algoritmos aproximativos, com enfoque especial no problema dos k-centros, útil na tarefa de agrupamento em aprendizado de máquinas.
 
 
 ## Estrutura do Projeto
