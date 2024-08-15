@@ -1,3 +1,7 @@
+Não esquecer -----------------------------------------------------------------------
+- Alteração do primeiro algoritmo pra identificar quando não funciona
+- Pegar só o triângulo superior da matriz de distâncias
+
 Entregas ----------------------------------------------------------------------------
 - todos os arquivos fonte
 - relatório
