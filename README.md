@@ -9,7 +9,7 @@ Este projeto constitui a implementação do trabalho final da disciplina de Algo
 - `data/multivariate/`: Contém os dados gerados a partir da distribuição normal multivariada
 - `data/sklearn/`: Contém os dados disponíveis em https://scikit-learn.org/stable/api/sklearn.datasets.html#module-sklearn.datasets 
 - `data/reais/`: Contém os dados reais obtidos em https://archive.ics.uci.edu/
-- relatorio.pdf: Relatório incluindo detalhamento dos algoritmos, da metodologia e discussão dos resultados.
+- `relatorio.pdf`: Relatório incluindo detalhamento dos algoritmos, da metodologia e discussão dos resultados.
 
 ## Autores
 
