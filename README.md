@@ -5,33 +5,12 @@ Este projeto constitui a implementação do trabalho final da disciplina de Algo
 
 ## Estrutura do Projeto
 
-- `sla`: Implementa 
-
-## Como Executar
-
-Para executar o projeto localmente, siga estas instruções:
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/beatrizreisgb/TP2ALG2.git
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd TP2ALG2.git
-
-3. Crie e ative um ambiente virtual (opcional, mas recomendado):
-   ```bash
-   python -m venv venv       # Cria o ambiente virtual
-   source venv/bin/activate  # Ativa o ambiente virtual (Linux/macOS)
-   # Ou no Windows use: venv\Scripts\activate
-
-4. Instale as dependências necessárias:
-   ```bash
-   pip install -r requirements.txt
-
+- `src/tp.ipynb`: Implementa todo o projeto
+- `data/multivariate/`: Contém os dados gerados a partir da distribuição normal multivariada
+- `data/sklearn/`: Contém os dados disponíveis em https://scikit-learn.org/stable/api/sklearn.datasets.html#module-sklearn.datasets 
+- `data/reais/`: Contém os dados reais obtidos em https://archive.ics.uci.edu/
+- relatorio.pdf: Relatório incluindo detalhamento dos algoritmos, da metodologia e discussão dos resultados.
 
 ## Autores
 
-Este projeto foi desenvolvido pelos alunos Beatriz Reis e Diogo Tuler, do Departamento de Ciência da Computação da UFMG.
+Este projeto foi desenvolvido pelos alunos Beatriz Reis Gama Barbosa e Diogo Tuler Chaves, do Departamento de Ciência da Computação da UFMG.
